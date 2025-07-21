@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Anam Maulana
 
+![WELCOME](https://github.com/user-attachments/assets/82bddf48-e1d8-4847-86cc-0b3690b10559)
+
 I'm a passionate software developer with a love for clean code and impactful projects. I enjoy learning new technologies and building things that solve real-world problems.
 
-![WELCOME](https://github.com/user-attachments/assets/82bddf48-e1d8-4847-86cc-0b3690b10559)
 
 
 ## 🚀 Technologies & Tools
